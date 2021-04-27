@@ -76,8 +76,6 @@
             }
         ]
     },
-    "footer": {
-        "content": "Dan Wild "
-    },
+    "footer": {},
     "domain": "https://dan-wild-pb-7789d.netlify.app"
 }
